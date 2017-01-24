@@ -10,4 +10,4 @@ chmod +x gpos.sh
 
 ./gpos.sh
 
-Collaboration or  contact me jmtorres15@gmail.com 
+Collaboration or improvements contact me jmtorres15@gmail.com  
