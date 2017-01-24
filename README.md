@@ -7,4 +7,6 @@ sudo apt-get update
 sudo apt-get install inotify-tools
 
 chmod +x gpos.sh
+
 ./gpos.sh
+
